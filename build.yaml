@@ -1,0 +1,5 @@
+include:
+  - board: resnic
+  - board: resnic
+    snippet: zmk-usb-logging
+    artifact-name: resnic-usb-logging

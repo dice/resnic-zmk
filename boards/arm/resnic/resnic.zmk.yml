@@ -1,0 +1,14 @@
+file_format: "1"
+id: resnic
+name: Resnic Keyboard
+type: board
+arch: arm
+
+url: https://hersho.com/resnic
+
+features:
+  - keys
+#  - studio  # Remove this line if your keyboard will not support ZMK Studio
+outputs:
+  - usb
+  - ble
